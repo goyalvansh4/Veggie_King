@@ -11,7 +11,17 @@ Level up my coding skills by building real-world projects with professional desi
 
 ## Project brief
 
-Venture forth with **The Veggie King** a fusion of fresh flavors and digital elegance. This landing page is a beacon for healthy food enthusiasts, serving up a visual feast intertwined with the ethos of green dining. Every pixel is poised to captivate, making every visit an experience that's both nourishing and delightful.
+Responsive Design: The website is designed to be fully responsive, ensuring a seamless experience across various devices, including desktops, tablets, and smartphones.
+
+Menu Display: Showcase your restaurant's menu with appealing visuals and detailed descriptions. Customers can easily browse through different categories and dishes.
+
+Online Ordering: Enable customers to place orders directly through the website. Integration with popular payment gateways ensures a secure and convenient transaction process.
+
+About Us Page: Share the story of your restaurant, including its history, values, and mission. Connect with your customers on a personal level.
+
+Contact Information: Provide clear and accessible contact information, including the restaurant's address, phone number, and email. Integrate a map for easy navigation.
+
+Gallery: Highlight the ambiance and signature dishes of your restaurant through a visually appealing image gallery.
 
 
 Give it a thumbs up if you like it

@@ -564,6 +564,7 @@ nav {
 
   .menu .menu_items {
     flex-direction: column;
+    gap:20px 0;
     width: 100%;
   }
   .menu_items .menu_item {

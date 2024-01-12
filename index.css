@@ -564,11 +564,12 @@ nav {
 
   .menu .menu_items {
     flex-direction: column;
-    gap:20px 0;
+    gap:25px 0px;
     width: 100%;
   }
   .menu_items .menu_item {
     width: 100%;
+    magin-top:5px;
   }
   .gallery_photos {
     display: flex;
